@@ -1,0 +1,19 @@
+[main] reverseSentence 1000 (0) exception: trapped!
+[main] reverseSentence 1000 (0) exception: code 0xC0000005 at 0x40129B
+[main] reverseSentence 1000 (0) exception: ax 0x401236 bx 0x246FF20 cx 0x61061250 dx 0x61061258
+[main] reverseSentence 1000 (0) exception: si 0x0 di 0x0 bp 0x246FF08 sp 0x246FEE8
+[main] reverseSentence 1000 (0) exception: exception is: STATUS_ACCESS_VIOLATION
+[main] reverseSentence 1000 (0) stack: Stack trace:
+[main] reverseSentence 1000 (0) stack: frame 0: sp = 0x246F8F0, pc = 0x6100A2C3
+[main] reverseSentence 1000 (0) stack: frame 1: sp = 0x246F92C, pc = 0x77B4C881
+[main] reverseSentence 1000 (0) stack: frame 2: sp = 0x246F950, pc = 0x77B4C853
+[main] reverseSentence 1000 (0) stack: frame 3: sp = 0x246FA1C, pc = 0x77B4C6BB
+[main] reverseSentence 1000 (0) stack: frame 4: sp = 0x246FF08, pc = 0x61004402
+[main] reverseSentence 1000 (0) stack: frame 5: sp = 0x246FF54, pc = 0x61004420
+[main] reverseSentence 1000 (0) stack: frame 6: sp = 0x246FF60, pc = 0x41340E
+[main] reverseSentence 1000 (0) stack: frame 7: sp = 0x246FF70, pc = 0x40103A
+[main] reverseSentence 1000 (0) stack: frame 8: sp = 0x246FF8C, pc = 0x7791919F
+[main] reverseSentence 1000 (0) stack: frame 9: sp = 0x246FF98, pc = 0x77B60BBB
+[main] reverseSentence 1000 (0) stack: frame 10: sp = 0x246FFDC, pc = 0x77B60B91
+[main] reverseSentence 1000 (1) stack: frame 11: sp = 0x246FFEC, pc = 0x0
+[main] reverseSentence 1000 (0) stack: End of stack trace

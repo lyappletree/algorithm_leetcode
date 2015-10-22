@@ -1,0 +1,23 @@
+[main] closestNum 1000 (0) exception: trapped!
+[main] closestNum 1000 (0) exception: code 0xC0000005 at 0x6105AF0F
+[main] closestNum 1000 (0) exception: ax 0x90909090 bx 0x84AB869 cx 0x77BA27E1 dx 0x7FFDD000
+[main] closestNum 1000 (1) exception: si 0x90909090 di 0x77BA27D9 bp 0x246FCA0 sp 0x246FC74
+[main] closestNum 1000 (0) exception: exception is: STATUS_ACCESS_VIOLATION
+[main] closestNum 1000 (0) stack: Stack trace:
+[main] closestNum 1000 (0) stack: frame 0: sp = 0x246F680, pc = 0x6100A2C3
+[main] closestNum 1000 (0) stack: frame 1: sp = 0x246F6BC, pc = 0x77B4C881
+[main] closestNum 1000 (0) stack: frame 2: sp = 0x246F6E0, pc = 0x77B4C853
+[main] closestNum 1000 (0) stack: frame 3: sp = 0x246F7A8, pc = 0x77B4C6BB
+[main] closestNum 1000 (0) stack: frame 4: sp = 0x246FCA0, pc = 0x6101A4A7
+[main] closestNum 1000 (0) stack: frame 5: sp = 0x246FCB0, pc = 0x4159C1
+[main] closestNum 1000 (0) stack: frame 6: sp = 0x246FCC4, pc = 0x4159F1
+[main] closestNum 1000 (0) stack: frame 7: sp = 0x246FCF0, pc = 0x415949
+[main] closestNum 1000 (0) stack: frame 8: sp = 0x246FD08, pc = 0x415A53
+[main] closestNum 1000 (0) stack: frame 9: sp = 0x246FD1C, pc = 0x414358
+[main] closestNum 1000 (0) stack: frame 10: sp = 0x246FD30, pc = 0x401D1D
+[main] closestNum 1000 (0) stack: frame 11: sp = 0x246FF0C, pc = 0x61004402
+[main] closestNum 1000 (0) stack: frame 12: sp = 0x246FF54, pc = 0x61004420
+[main] closestNum 1000 (0) stack: frame 13: sp = 0x246FF60, pc = 0x413ECE
+[main] closestNum 1000 (0) stack: frame 14: sp = 0x246FF70, pc = 0x40103A
+[main] closestNum 1000 (0) stack: frame 15: sp = 0x246FF8C, pc = 0x7791919F
+[main] closestNum 1000 (0) stack: End of stack trace (more stack frames may be present)

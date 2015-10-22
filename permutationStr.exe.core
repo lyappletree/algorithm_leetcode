@@ -1,0 +1,21 @@
+[main] permutationStr 1000 (0) exception: trapped!
+[main] permutationStr 1000 (0) exception: code 0xC0000005 at 0x4010A0
+[main] permutationStr 1000 (0) exception: ax 0x401104 bx 0x246FF20 cx 0x61061261 dx 0x401104
+[main] permutationStr 1000 (0) exception: si 0x0 di 0x0 bp 0x246FEEC sp 0x246FEDC
+[main] permutationStr 1000 (0) exception: exception is: STATUS_ACCESS_VIOLATION
+[main] permutationStr 1000 (0) stack: Stack trace:
+[main] permutationStr 1000 (1) stack: frame 0: sp = 0x246F8E8, pc = 0x6100A2C3
+[main] permutationStr 1000 (0) stack: frame 1: sp = 0x246F924, pc = 0x77CBC881
+[main] permutationStr 1000 (0) stack: frame 2: sp = 0x246F948, pc = 0x77CBC853
+[main] permutationStr 1000 (0) stack: frame 3: sp = 0x246FA10, pc = 0x77CBC6BB
+[main] permutationStr 1000 (0) stack: frame 4: sp = 0x246FEEC, pc = 0x4010FD
+[main] permutationStr 1000 (0) stack: frame 5: sp = 0x246FEFC, pc = 0x40111A
+[main] permutationStr 1000 (0) stack: frame 6: sp = 0x246FF08, pc = 0x61004402
+[main] permutationStr 1000 (0) stack: frame 7: sp = 0x246FF54, pc = 0x61004420
+[main] permutationStr 1000 (0) stack: frame 8: sp = 0x246FF60, pc = 0x4131BE
+[main] permutationStr 1000 (0) stack: frame 9: sp = 0x246FF70, pc = 0x40103A
+[main] permutationStr 1000 (0) stack: frame 10: sp = 0x246FF8C, pc = 0x75AC919F
+[main] permutationStr 1000 (0) stack: frame 11: sp = 0x246FF98, pc = 0x77CD0BBB
+[main] permutationStr 1000 (0) stack: frame 12: sp = 0x246FFDC, pc = 0x77CD0B91
+[main] permutationStr 1000 (0) stack: frame 13: sp = 0x246FFEC, pc = 0x0
+[main] permutationStr 1000 (0) stack: End of stack trace

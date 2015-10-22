@@ -1,0 +1,20 @@
+[main] mergeSort 1000 (0) exception: trapped!
+[main] mergeSort 1000 (0) exception: code 0xC0000005 at 0x401256
+[main] mergeSort 1000 (0) exception: ax 0x0 bx 0x0 cx 0x0 dx 0x0
+[main] mergeSort 1000 (0) exception: si 0x246FE8C di 0xA031900 bp 0x246FE44 sp 0x246FDD8
+[main] mergeSort 1000 (0) exception: exception is: STATUS_ACCESS_VIOLATION
+[main] mergeSort 1000 (0) stack: Stack trace:
+[main] mergeSort 1000 (0) stack: frame 0: sp = 0x246F7E0, pc = 0x6100A2C3
+[main] mergeSort 1000 (0) stack: frame 1: sp = 0x246F81C, pc = 0x77BCC881
+[main] mergeSort 1000 (0) stack: frame 2: sp = 0x246F840, pc = 0x77BCC853
+[main] mergeSort 1000 (0) stack: frame 3: sp = 0x246F90C, pc = 0x77BCC6BB
+[main] mergeSort 1000 (0) stack: frame 4: sp = 0x246FE44, pc = 0x4013F3
+[main] mergeSort 1000 (0) stack: frame 5: sp = 0x246FF0C, pc = 0x61004402
+[main] mergeSort 1000 (0) stack: frame 6: sp = 0x246FF54, pc = 0x61004420
+[main] mergeSort 1000 (0) stack: frame 7: sp = 0x246FF60, pc = 0x4135BE
+[main] mergeSort 1000 (0) stack: frame 8: sp = 0x246FF70, pc = 0x40103A
+[main] mergeSort 1000 (0) stack: frame 9: sp = 0x246FF8C, pc = 0x76B5919F
+[main] mergeSort 1000 (0) stack: frame 10: sp = 0x246FF98, pc = 0x77BE0BBB
+[main] mergeSort 1000 (0) stack: frame 11: sp = 0x246FFDC, pc = 0x77BE0B91
+[main] mergeSort 1000 (0) stack: frame 12: sp = 0x246FFEC, pc = 0x0
+[main] mergeSort 1000 (1) stack: End of stack trace

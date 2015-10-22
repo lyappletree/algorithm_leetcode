@@ -1,0 +1,19 @@
+[main] miniPalin 1000 (0) exception: trapped!
+[main] miniPalin 1000 (1) exception: code 0xC0000005 at 0x40154A
+[main] miniPalin 1000 (0) exception: ax 0x10 bx 0x14 cx 0x19 dx 0xA031928
+[main] miniPalin 1000 (0) exception: si 0x14 di 0xA031900 bp 0x247FF0C sp 0x247FE60
+[main] miniPalin 1000 (0) exception: exception is: STATUS_ACCESS_VIOLATION
+[main] miniPalin 1000 (0) stack: Stack trace:
+[main] miniPalin 1000 (0) stack: frame 0: sp = 0x247F868, pc = 0x6100A2C3
+[main] miniPalin 1000 (0) stack: frame 1: sp = 0x247F8A4, pc = 0x77B4C881
+[main] miniPalin 1000 (0) stack: frame 2: sp = 0x247F8C8, pc = 0x77B4C853
+[main] miniPalin 1000 (0) stack: frame 3: sp = 0x247F994, pc = 0x77B4C6BB
+[main] miniPalin 1000 (0) stack: frame 4: sp = 0x247FF0C, pc = 0x61004402
+[main] miniPalin 1000 (0) stack: frame 5: sp = 0x247FF54, pc = 0x61004420
+[main] miniPalin 1000 (0) stack: frame 6: sp = 0x247FF60, pc = 0x4164EA
+[main] miniPalin 1000 (0) stack: frame 7: sp = 0x247FF70, pc = 0x40103A
+[main] miniPalin 1000 (0) stack: frame 8: sp = 0x247FF8C, pc = 0x7791919F
+[main] miniPalin 1000 (0) stack: frame 9: sp = 0x247FF98, pc = 0x77B60BBB
+[main] miniPalin 1000 (0) stack: frame 10: sp = 0x247FFDC, pc = 0x77B60B91
+[main] miniPalin 1000 (0) stack: frame 11: sp = 0x247FFEC, pc = 0x0
+[main] miniPalin 1000 (1) stack: End of stack trace

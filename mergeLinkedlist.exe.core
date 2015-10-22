@@ -1,0 +1,20 @@
+[main] mergeLinkedlist 1000 (0) exception: trapped!
+[main] mergeLinkedlist 1000 (0) exception: code 0xC0000005 at 0x4013CC
+[main] mergeLinkedlist 1000 (0) exception: ax 0x0 bx 0x415020 cx 0x246FEA0 dx 0xA031D68
+[main] mergeLinkedlist 1000 (0) exception: si 0xA031DA8 di 0x0 bp 0x246FEC8 sp 0x246FE5C
+[main] mergeLinkedlist 1000 (1) exception: exception is: STATUS_ACCESS_VIOLATION
+[main] mergeLinkedlist 1000 (0) stack: Stack trace:
+[main] mergeLinkedlist 1000 (0) stack: frame 0: sp = 0x246F868, pc = 0x6100A2C3
+[main] mergeLinkedlist 1000 (0) stack: frame 1: sp = 0x246F8A4, pc = 0x77CBC881
+[main] mergeLinkedlist 1000 (0) stack: frame 2: sp = 0x246F8C8, pc = 0x77CBC853
+[main] mergeLinkedlist 1000 (0) stack: frame 3: sp = 0x246F990, pc = 0x77CBC6BB
+[main] mergeLinkedlist 1000 (0) stack: frame 4: sp = 0x246FEC8, pc = 0x401505
+[main] mergeLinkedlist 1000 (0) stack: frame 5: sp = 0x246FF08, pc = 0x61004402
+[main] mergeLinkedlist 1000 (0) stack: frame 6: sp = 0x246FF54, pc = 0x61004420
+[main] mergeLinkedlist 1000 (0) stack: frame 7: sp = 0x246FF60, pc = 0x4135BE
+[main] mergeLinkedlist 1000 (0) stack: frame 8: sp = 0x246FF70, pc = 0x40103A
+[main] mergeLinkedlist 1000 (0) stack: frame 9: sp = 0x246FF8C, pc = 0x75AC919F
+[main] mergeLinkedlist 1000 (0) stack: frame 10: sp = 0x246FF98, pc = 0x77CD0BBB
+[main] mergeLinkedlist 1000 (0) stack: frame 11: sp = 0x246FFDC, pc = 0x77CD0B91
+[main] mergeLinkedlist 1000 (0) stack: frame 12: sp = 0x246FFEC, pc = 0x0
+[main] mergeLinkedlist 1000 (0) stack: End of stack trace

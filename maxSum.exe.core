@@ -1,0 +1,19 @@
+[main] maxSum 1000 (0) exception: trapped!
+[main] maxSum 1000 (0) exception: code 0xC0000005 at 0x4012EF
+[main] maxSum 1000 (0) exception: ax 0xA031D2C bx 0x0 cx 0x4 dx 0xA031D2C
+[main] maxSum 1000 (0) exception: si 0x246FE84 di 0xA031900 bp 0x246FF10 sp 0x246FE24
+[main] maxSum 1000 (0) exception: exception is: STATUS_ACCESS_VIOLATION
+[main] maxSum 1000 (0) stack: Stack trace:
+[main] maxSum 1000 (0) stack: frame 0: sp = 0x246F830, pc = 0x6100A2C3
+[main] maxSum 1000 (0) stack: frame 1: sp = 0x246F86C, pc = 0x77CBC881
+[main] maxSum 1000 (0) stack: frame 2: sp = 0x246F890, pc = 0x77CBC853
+[main] maxSum 1000 (0) stack: frame 3: sp = 0x246F958, pc = 0x77CBC6BB
+[main] maxSum 1000 (0) stack: frame 4: sp = 0x246FF10, pc = 0x61004402
+[main] maxSum 1000 (0) stack: frame 5: sp = 0x246FF54, pc = 0x61004420
+[main] maxSum 1000 (0) stack: frame 6: sp = 0x246FF60, pc = 0x4135EE
+[main] maxSum 1000 (0) stack: frame 7: sp = 0x246FF70, pc = 0x40103A
+[main] maxSum 1000 (0) stack: frame 8: sp = 0x246FF8C, pc = 0x75AC919F
+[main] maxSum 1000 (0) stack: frame 9: sp = 0x246FF98, pc = 0x77CD0BBB
+[main] maxSum 1000 (1) stack: frame 10: sp = 0x246FFDC, pc = 0x77CD0B91
+[main] maxSum 1000 (0) stack: frame 11: sp = 0x246FFEC, pc = 0x0
+[main] maxSum 1000 (0) stack: End of stack trace

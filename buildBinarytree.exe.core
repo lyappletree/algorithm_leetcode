@@ -1,0 +1,23 @@
+[main] buildBinarytree 1000 (0) exception: trapped!
+[main] buildBinarytree 1000 (0) exception: code 0xC0000005 at 0x4149EF
+[main] buildBinarytree 1000 (0) exception: ax 0xA031EA8 bx 0xA031EA8 cx 0x13 dx 0xA031EA8
+[main] buildBinarytree 1000 (0) exception: si 0x0 di 0xA031EA8 bp 0x246FD08 sp 0x246FCFC
+[main] buildBinarytree 1000 (0) exception: exception is: STATUS_ACCESS_VIOLATION
+[main] buildBinarytree 1000 (0) stack: Stack trace:
+[main] buildBinarytree 1000 (0) stack: frame 0: sp = 0x246F708, pc = 0x6100A2C3
+[main] buildBinarytree 1000 (0) stack: frame 1: sp = 0x246F744, pc = 0x7703C881
+[main] buildBinarytree 1000 (0) stack: frame 2: sp = 0x246F768, pc = 0x7703C853
+[main] buildBinarytree 1000 (0) stack: frame 3: sp = 0x246F830, pc = 0x7703C6BB
+[main] buildBinarytree 1000 (0) stack: frame 4: sp = 0x246FD08, pc = 0x415370
+[main] buildBinarytree 1000 (0) stack: frame 5: sp = 0x246FD20, pc = 0x415342
+[main] buildBinarytree 1000 (0) stack: frame 6: sp = 0x246FD38, pc = 0x40131B
+[main] buildBinarytree 1000 (1) stack: frame 7: sp = 0x246FDA0, pc = 0x4018F7
+[main] buildBinarytree 1000 (0) stack: frame 8: sp = 0x246FF08, pc = 0x61004402
+[main] buildBinarytree 1000 (0) stack: frame 9: sp = 0x246FF54, pc = 0x61004420
+[main] buildBinarytree 1000 (0) stack: frame 10: sp = 0x246FF60, pc = 0x413A4E
+[main] buildBinarytree 1000 (0) stack: frame 11: sp = 0x246FF70, pc = 0x40103A
+[main] buildBinarytree 1000 (0) stack: frame 12: sp = 0x246FF8C, pc = 0x761B919F
+[main] buildBinarytree 1000 (0) stack: frame 13: sp = 0x246FF98, pc = 0x77050BBB
+[main] buildBinarytree 1000 (0) stack: frame 14: sp = 0x246FFDC, pc = 0x77050B91
+[main] buildBinarytree 1000 (0) stack: frame 15: sp = 0x246FFEC, pc = 0x0
+[main] buildBinarytree 1000 (0) stack: End of stack trace
